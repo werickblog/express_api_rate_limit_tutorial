@@ -1,0 +1,15 @@
+{
+  "name": "express_api_rate_limit_tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/werickblog/express_api_rate_limit_tutorial.git",
+  "author": "tesh254 <ewachira254@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.0.0"
+  },
+  "scripts": {
+    "start": "node ."
+  }
+}
